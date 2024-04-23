@@ -1,4 +1,6 @@
 # Blog-app
+The project first shows the blank screen where all the bolgs posted can be seen by non-logged users
+then their is the nav bar which sgives the option to create an accont (signup) or login (signin).
 
 # Update .env
 - add the url for the database 
